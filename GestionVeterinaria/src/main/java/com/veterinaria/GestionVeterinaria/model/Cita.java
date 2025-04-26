@@ -14,7 +14,7 @@ import java.time.LocalDateTime;
 
 /**
  *
- * @author GABRIEL PANTA JIMENEZ Gaborocker
+ * @author GABRIEL PANTA JIMENEZ Gaborocker 778
  */
 @Entity
 public class Cita {
